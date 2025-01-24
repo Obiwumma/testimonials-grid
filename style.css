@@ -1,0 +1,15 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+main{
+  background-color: rgb(231, 238, 244);
+}
+
+@media (width: 320px) {
+  .name{
+    display: flex;
+    flex-direction: row;
+    line-height: .3rem;
+  }
+}
