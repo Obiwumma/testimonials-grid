@@ -24,11 +24,15 @@ main{
     background-position: top right 25px;
     padding: 15px 30px;
     color: #fff3ff;
+    border-radius: 10px;
   }
   .name{
     display: flex;
     flex-direction: row;
     line-height: .3rem;
     align-items: center;
+  }
+  .name img{
+    margin-right: 20px;
   }
 }
