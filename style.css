@@ -45,11 +45,33 @@ main{
     margin-top: 80px;
     background-color: #49556b;
     padding: 15px 23px;
-    color: #fff3ff;
+    color: #fff3ffdb;
     border-radius: 10px;
     line-height: 1.4em;
   }
   .card3{
+    border: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 80px;
+    background-color: #ffffff;
+    padding: 15px 23px;
+    color: #464e5b;
+    border-radius: 10px;
+    line-height: 1.4em;
+  }
+  .card4{
+    border: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 80px;
+    background-color: #18202d;
+    padding: 15px 23px;
+    color: #fff3ffdb;
+    border-radius: 10px;
+    line-height: 1.4em;
+  }
+  .card5{
     border: none;
     margin-left: 25px;
     margin-right: 25px;
