@@ -59,12 +59,21 @@ body{
   }
 }
 @media (min-width: 1200px) {
+  .card1, .card2, .card3, .card4, .card5{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
   .card1{
     margin-top: 30px;
   }
   main{
     display: flex;
     flex-direction: row;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    /* height: 80vh; */
   }
   .grid-container{
     display: grid;
@@ -84,7 +93,7 @@ body{
   .card4:nth-child(4){
     grid-column: 2/4;
   }
-  .card5:nth-child(5){
-    grid-column: 3/3;
+  .card5{
+    height: 91%;
   }
 }
